@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566672685 source:c:\users\jeanp\documents\estudos\projetos c\l4ex07_jogo_soma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
