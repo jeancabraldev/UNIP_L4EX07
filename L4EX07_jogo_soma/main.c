@@ -4,7 +4,7 @@
 
 int main()
 {
-    srand(time(NULL));;
+    srand(time(NULL));
 
     int numUsuario;
     int total;
