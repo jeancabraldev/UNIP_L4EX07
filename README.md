@@ -1,4 +1,4 @@
-# UNIP_L04EX07_jogo_soma
+# UNIP_L4EX07
     Jogo da soma, faça um programa que sorteia dois números e pergunte ao usuário
     qual o total da soma dos dois números sorteados, após o usuário informar o total, o
     programa deverá informar se o usuário acertou ou errou a conta, em seguida
